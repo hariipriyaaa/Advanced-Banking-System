@@ -455,18 +455,18 @@ banking-dsa-project/
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
+- GitHub: https://github.com/hariipriyaaa
+- LinkedIn: https://www.linkedin.com/in/hari-priya-l/
 
 ---
 
-## 📄 License
+##  License
 
 MIT License - feel free to use this project for learning and portfolio purposes!
 
 ---
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - Data Structures and Algorithms concepts
 - Modern C++ STL
