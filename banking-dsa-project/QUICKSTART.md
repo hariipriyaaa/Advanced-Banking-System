@@ -312,9 +312,9 @@ npm install
 
 ## Support
 
-- **Issues**: Open a GitHub issue
-- **Email**: youremail@example.com
-- **LinkedIn**: [Your Profile]
+- **Issues**: Open a GitHub issue 
+- **Email**: haripriyal1604@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/hari-priya-l/
 
 ---
 
